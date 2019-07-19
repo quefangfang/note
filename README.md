@@ -9,6 +9,8 @@
 ## 小程序
 - **[小程序主流框架对比](https://github.com/quefangfang/note/blob/master/weChat/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%B8%BB%E6%B5%81%E6%A1%86%E6%9E%B6%E5%AF%B9%E6%AF%94.md)**
 
+- **[taro构建小程序](https://github.com/quefangfang/note/blob/master/weChat/taro%E6%9E%84%E5%BB%BA%E5%B0%8F%E7%A8%8B%E5%BA%8F.md)**
+
 ##  problem
 - [**input上传 重复文件 无效**](<https://github.com/quefangfang/note/blob/master/problem/%E4%B8%8A%E4%BC%A0.md>)
 
